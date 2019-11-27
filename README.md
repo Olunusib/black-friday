@@ -13,7 +13,7 @@ How it wroks:
 
 
 Tools to have:
-- You need to have a <a href='www.twilio.com/referral/Q1X0Aa'>twilio</a> account (free or paid) for the SMS service.
+- You need to have a [twilio](https://www.twilio.com/referral/Q1X0Aa) account (free or paid) for the SMS service.
 - You need to have a google App Password and 2FA configured on your device for the email service (The most secure way).
 
 Screeenshots:
